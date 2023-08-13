@@ -20,5 +20,6 @@ Then, we plot the months of the year to try and find if there is a pattern in di
 Finally, we can see that, in the months 6, 7 & 8, the amount of installs for the "Teen" apps are more. The number of ratings are also increasing during these 3 months according to the line graph above. This means that something is enabling the "Teen" apps to do well during these 3 months. A possible explanation to this is that most of the schools in Europe and the Americas have summer breaks during these 3 months. This is a time that the teens are having a lot of free time and installing a lot of the apps.
 
 We can also note that the ratings fall back to normal after the summer break is over.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Thank you!**

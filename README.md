@@ -21,5 +21,4 @@ Finally, we can see that, in the months 6, 7 & 8, the amount of installs for the
 
 We can also note that the ratings fall back to normal after the summer break is over.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Thank you!**
